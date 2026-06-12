@@ -1,7 +1,7 @@
 # royeriptv
 scaner m3u iptv
 
-git clone https://github.com/royertec/royeriptv
+git clone https://github.com/royeriptv/ScanListasM3u)
 
 cd royeriptv
 ls
